@@ -9,5 +9,16 @@
 
 .one {
     font-size: 28px;
-    font-family: Hevetica, Times New Roman, "sans-serif";
+    font-family: Hevetica, "Times New Roman", sans-serif;
 }
+
+/*ok so in the solution, they wrote
+.black,
+.yellow {
+  font-family: Helvetica, "Times New Roman", sans-serif;
+  font-size: 28px;
+} which does the same thing as the code
+ I wrote BUT, I didnt read the instructions
+ well enough and that's why I wrote
+ it the way I did. I still got the
+ intended result which is what matters*/
